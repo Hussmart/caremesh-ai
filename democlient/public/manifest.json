@@ -1,0 +1,9 @@
+{
+  "short_name": "CareMesh AI",
+  "name": "CareMesh AI Healthcare Workspace",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f6cbd",
+  "background_color": "#f7fbff"
+}
